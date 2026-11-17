@@ -130,7 +130,5 @@ College Smart Attendance Management System
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star on GitHub!
-
 **GitHub Repository:**  
 https://github.com/2498Muskan/Smart-Attendance
